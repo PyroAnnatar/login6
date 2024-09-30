@@ -2,7 +2,7 @@ import React from "react";
 
 const Login = () => {
   return (
-    <div className="w-3/12 shadow-[0_3px_7px_rgba(0,0,0,0.5)] p-10 flex flex-col gap-8 bg-[#161111e0] xl:bg-[#FFFFFF0D] z-50 min-w-[350px] mt-12">
+    <div className="w-3/12 shadow-[0_3px_7px_rgba(0,0,0,0.5)] p-10 flex flex-col gap-8 bg-[#161111ee] xl:bg-[#FFFFFF0D] z-50 min-w-[350px] mt-12">
       <h1 className="uppercase text-7xl text-[#FFFFFF80] font-semibold mb-2">
         Login
       </h1>
